@@ -21,9 +21,9 @@ To duplicate this repository follow these instructions on GitHub.  [Duplicating 
 |c:\program files\Application\logs\syslog-feed.xml |:red_circle:|:white_large_square:|:white_large_square: | :white_check_mark:| 
 
 **Legend**
--:white_check_mark: Verified
--:white_large_square: Not Verified
--:red_circle: Verified not present or not functioning
+* :white_check_mark: Verified
+* :white_large_square: Not Verified
+* :red_circle: Verified not present or not functioning
 
 ##Notes
 
