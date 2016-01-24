@@ -1,15 +1,17 @@
 # ICSLogs-BaseRepo
-
-To duplicate this repository follow these instructions on GitHub.  [Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository/)
+Short description of application and logs collected.
 
 ##Catalog
 
 |Location|Description|Format|Link|
 |:------------- | :------------- | :---|:---|:---|
 |c:\Program Files\Application\Logs\log.txt  | Application log | TSV | [Link](\File-log-txt)|
-|SQL Server\DBName\TableName | Audit Trail | SQL Server Table  | [Link](\SQL-DBName-TableName)|
+|SQL Server\DBName\TableName | Audit Trail | SQL Server Data  | [Link](\SQL-DBName-TableName)|
 |Event Logs\Application Logs\{ApplicationName} | Additional Application Logs | Windows Event Log | [Link](\EVT-ApplicationName)
 |c:\program files\Application\logs\syslog-feed.xml | XML Configuration for Syslog Feed | XML\Syslog | [Link](\Syslog)
+|SQL Server\A2ALMDB\Events | Operator and System Event Log | SQL Server Data  | [Link](\SQL-A2ALMDB-Events)|
+|SQL Server\A2ALMDB\Alarms | Alarm Log | SQL Server Data  | [Link](\SQL-A2ALMDB-Alarms)|
+
 
 
 ##Version Coverage
@@ -19,6 +21,8 @@ To duplicate this repository follow these instructions on GitHub.  [Duplicating 
 |SQL Server\DBName\TableName | :white_check_mark: |:white_check_mark:|:white_large_square:|:white_large_square:|
 |Event Logs\Application Logs\{ApplicationName} | :white_large_square: |:white_large_square:|:white_check_mark:|:white_check_mark:|
 |c:\program files\Application\logs\syslog-feed.xml |:red_circle:|:white_large_square:|:white_large_square: | :white_check_mark:| 
+|SQL Server\A2ALMDB\Events |:white_check_mark:|:white_check_mark:|:white_check_mark: | :white_check_mark:| 
+|SQL Server\A2ALMDB\Alarms |:white_check_mark:|:white_check_mark:|:white_check_mark: | :white_check_mark:| 
 
 **Legend**
 * :white_check_mark: Verified
