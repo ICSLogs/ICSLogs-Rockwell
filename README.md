@@ -3,7 +3,7 @@ Log file catalog, formats, and software tools for {Application Name}
 
 ##Catalog
 
-Location  | Description | Format|
+:Location  | :Description | :Format|
 ------------- | ------------- | ---|
 c:\Program Files\Application\Logs\log.txt  | Application log | TSV
 SQL Server\DBName\TableName | Audit Trail | SQL Server Table
