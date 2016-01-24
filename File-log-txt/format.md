@@ -12,7 +12,7 @@ This is an standard MSI Windows Installer log
 |Application notation|String|N/A|{Space}|Typically MSI on Windows
 |Action source|String|3|(c/s)|c = client, s = server
 |Process and Thread ID|Hex:Hex|7|(processID:threadID)|Only the last 2 Hexadecimal digits of each are shown.
-|Timestamp|Time|15|[hh: mm:ss.fff]:|Timestamp only of entry with milliseconds. Note the trailing :
+|Timestamp|Time|15|[hh:mm:ss.fff]:|Timestamp only of entry with milliseconds. Note the trailing :
 |Message|String|N/A|`CRLF` until MSI for next entry|This can be a multi-line message.  Next record is indicated by line beginning with MSI
 
 
