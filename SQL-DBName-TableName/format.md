@@ -6,11 +6,6 @@ This is a change log for Wonderware System Platform Objects.  To get a complete 
 
 
 ###Example Line
-|gobject_change_log_id|gobject_id|change_date|operation_id|user_comment|configuration_version|user_profile_name
-|:---|:---|:---|:---|:---|:---|:---|
-|4	|21	|2015-06-11 18:27:47.513	|14	|Create object successful.	|1	|SystemEngineer|
-
-
 |tag_name	|operation_name	|operation_code	|gobject_change_log_id	|gobject_id	|change_date	|operation_id	|user_comment	|configuration_version	|user_profile_name|
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 |AnalogHiLo	|CreateInstance	|exCreateInstance	|3	|20	|2015-06-11 18:27:46.973	|14	|Create object successful.	|1	|SystemEngineer|
