@@ -53,7 +53,7 @@ GO
 ```
 
 **lookup_operation**
-```
+```sql
 SET ANSI_NULLS ON
 GO
 
@@ -73,7 +73,7 @@ CREATE TABLE [dbo].[lookup_operation](
 GO
 ```
 **gobject_log_details**
-```
+```sql
 SET ANSI_NULLS ON
 GO
 
