@@ -13,15 +13,15 @@
 ##Version Coverage
 |Location|1.0|1.1|2.0|2.1|
 |:------------- |:------------- | :---|:---|:---|
-|c:\Program Files\Application\Logs\log.txt  | :white_check_mark: |:white_check_mark:|:white_check_mark:|:white_large_square:
-||SQL Server\DBName\TableName | :white_check_mark: |:white_check_mark:|:white_large_square:|:white_large_square:
-|Event Logs\Application Logs\{ApplicationName} | :white_large_square: |:white_large_square:|:white_check_mark:|:white_check_mark:
-|c:\program files\Application\logs\syslog-feed.xml |:red_circle:|:white_large_square:|:white_large_square: | :white_check_mark: 
+|c:\Program Files\Application\Logs\log.txt  | :white_check_mark: |:white_check_mark:|:white_check_mark:|:white_large_square:|
+||SQL Server\DBName\TableName | :white_check_mark: |:white_check_mark:|:white_large_square:|:white_large_square:|
+|Event Logs\Application Logs\{ApplicationName} | :white_large_square: |:white_large_square:|:white_check_mark:|:white_check_mark:|
+|c:\program files\Application\logs\syslog-feed.xml |:red_circle:|:white_large_square:|:white_large_square: | :white_check_mark:| 
 
 **Legend**
-:white_check_mark: - Verified
-:white_large_square: - Not Verified
-:red_circle: - Verified not present or functioning
+-:white_check_mark: Verified
+-:white_large_square: Not Verified
+-:red_circle: Verified not present or functioning
 
 ##Notes
 
