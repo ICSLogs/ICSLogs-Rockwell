@@ -1,5 +1,7 @@
 # ICSLogs-BaseRepo
 
+To duplicate this repository follow these instructions on GitHub.  [Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository/)
+
 ##Catalog
 
 |Location|Description|Format|Link|
@@ -21,10 +23,9 @@
 **Legend**
 -:white_check_mark: Verified
 -:white_large_square: Not Verified
--:red_circle: Verified not present or functioning
+-:red_circle: Verified not present or not functioning
 
 ##Notes
-
 
 ##Chat Room
 
