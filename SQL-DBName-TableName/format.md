@@ -3,8 +3,8 @@ This is a change log for Wonderware System Platform Objects
 
 
 ###Example Line
-|gobject_change_log_id	|gobject_id	|change_date	|operation_id	|user_comment	|configuration_version	|user_profile_name
-|:---|:---|:---|:---|:--|
+|gobject_change_log_id|gobject_id|change_date|operation_id|user_comment|configuration_version|user_profile_name
+|:---|:---|:---|:---|:---|:---|:---|
 |4	|21	|2015-06-11 18:27:47.513	|14	|Create object successful.	|1	|SystemEngineer|
 
 
