@@ -8,7 +8,7 @@ This is an standard MSI Windows Installer log
 
 ###Layout
 |Field|Type|Length|Delimiter(s)|Long Description|
-|:---||:---|:---|:---|
+|:---|:---|:---|:---|
 |Application notation|String|N/A|{Space}|Typically MSI on Windows
 |Action source|String|3|(c/s)|c = client, s = server
 |Process and Thread ID|Hex:Hex|7|(processID:threadID)|Only the last 2 Hexadecimal digits of each are shown.
