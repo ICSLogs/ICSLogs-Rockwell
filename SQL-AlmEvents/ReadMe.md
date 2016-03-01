@@ -1,7 +1,8 @@
 ###Description
 This is the alarms and events log for Rockwell Factory Talk products.
 
-**See References for source of information.  Most text directly from provided Help files  &copy;Rockwell Automation**
+**See References for source of information.  Almost all text directly from provided Help files.**
+&copy;Rockwell Automation
 
 - **Table - FTAEInstance** - metadata for this Alarm and Events database
 - **View - ConditionEvent** - Includes any event associated with a change in the state of an alarm. For example, a condition-related event is triggered when an alarm condition changes to In Alarm, Acknowledged, Return to Normal, or Disabled.
