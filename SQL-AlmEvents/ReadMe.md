@@ -469,7 +469,7 @@ The following table describes change mask values that are supported by FactoryTa
 The following table describes quality values (in addition to those provided by the OPC Historical Data Access specification) that are supported by FactoryTalk Alarms and Events.
     
 |Quality Value (Decimal)|Display String| Description|
- |---|---|---|
+|---|---|---|
 |192| Good Quality - Non-specific| The quality of the value is good. There are no special conditions.|
 |216| Good Quality - Local Override| The value has been overridden. Typically, this indicates that the input has been disconnected and a manually entered value has been forced.|
 |00 | Bad Quality - Non-specific| The value is bad, but no specific reason is known.|
