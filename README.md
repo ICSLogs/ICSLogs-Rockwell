@@ -1,28 +1,20 @@
-# ICSLogs-BaseRepo
-Short description of application and logs collected.
+# ICSLogs-Rockwell
+The repository documents log files for the Allen Bradley/Rockwell family of software.  
 
 ##Catalog
 
 |Location|Description|Format|Link|
 |:------------- | :------------- | :---|:---|:---|
-|c:\Program Files\Application\Logs\log.txt  | Application log | TSV | [Link](\File-log-txt)|
-|SQL Server\DBName\TableName | Audit Trail | SQL Server Data  | [Link](\SQL-DBName-TableName)|
-|Event Logs\Application Logs\{ApplicationName} | Additional Application Logs | Windows Event Log | [Link](\EVT-ApplicationName)
-|c:\program files\Application\logs\syslog-feed.xml | XML Configuration for Syslog Feed | XML\Syslog | [Link](\Syslog)
-|SQL Server\A2ALMDB\Events | Operator and System Event Log | SQL Server Data  | [Link](\SQL-A2ALMDB-Events)|
-|SQL Server\A2ALMDB\Alarms | Alarm Log | SQL Server Data  | [Link](\SQL-A2ALMDB-Alarms)|
-
+|Event Logs\Application And Service Logs\FactoryTalk Diagnostics | Factory Talk Diagnostics | Windows Event Log | [Link](\EVT-FactoryTalkDiagnostics)
+|SQL Server\{Custom DBName} | Alarm and Events Database | SQL Server Data  | [Link](\SQL-AlmEvents)|
 
 
 ##Version Coverage
-|Location|1.0|1.1|2.0|2.1|
+|Location|CPR 9 SR 7.4|
 |:------------- |:------------- | :---|:---|:---|
-|c:\Program Files\Application\Logs\log.txt  | :white_check_mark: |:white_check_mark:|:white_check_mark:|:white_large_square:|
-|SQL Server\DBName\TableName | :white_check_mark: |:white_check_mark:|:white_large_square:|:white_large_square:|
-|Event Logs\Application Logs\{ApplicationName} | :white_large_square: |:white_large_square:|:white_check_mark:|:white_check_mark:|
-|c:\program files\Application\logs\syslog-feed.xml |:red_circle:|:white_large_square:|:white_large_square: | :white_check_mark:| 
-|SQL Server\A2ALMDB\Events |:white_check_mark:|:white_check_mark:|:white_check_mark: | :white_check_mark:| 
-|SQL Server\A2ALMDB\Alarms |:white_check_mark:|:white_check_mark:|:white_check_mark: | :white_check_mark:| 
+|Event Logs\Application And Service Logs\FactoryTalk Diagnostics | :white_check_mark: |
+|SQL Server\{Custom DBName}-Alarms and Events| :white_check_mark: |
+
 
 **Legend**
 * :white_check_mark: Verified
