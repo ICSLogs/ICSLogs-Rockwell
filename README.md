@@ -1,4 +1,6 @@
 # ICSLogs-Rockwell
+
+[![Join the chat at https://gitter.im/ICSLogs/ICSLogs-Rockwell](https://badges.gitter.im/ICSLogs/ICSLogs-Rockwell.svg)](https://gitter.im/ICSLogs/ICSLogs-Rockwell?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The repository documents log files for the Allen Bradley/Rockwell family of software.  
 
 ##Catalog
